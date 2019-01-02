@@ -8,10 +8,7 @@
 
 
 /*Benjamin Mouer
- * CSC 241
- * Lab 6
  * 11/28/18
- * Dr.Cañas
  * */
 
 /*This is to read the input file*/
